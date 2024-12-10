@@ -1,2 +1,2 @@
-# Oriximin-Solid-ria
+# Oriximina Solidaria
 App de doações
